@@ -104,6 +104,9 @@ def x - передать функцию в ту, в которой есть де
   def factorial(x):
       otvet = x
       return otvet
+	  
+lst = [10, 20]
+def (*lst) - все аргументы списка lst передать поочередно
       
   nape("1")
   print (summa(33, 22))
